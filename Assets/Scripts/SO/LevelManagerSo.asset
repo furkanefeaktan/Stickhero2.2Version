@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 815916b6a43324d959781c503f7873b8, type: 3}
+  m_Name: LevelManagerSo
+  m_EditorClassIdentifier: 
+  LevelsSceneNames:
+  - Level1
+  - Level2
+  - Level3
+  - Level4
+  - Level5
+  MainMenu: MainMenu
+  NumberOfLevels: 1
+  MoneyValue: 20
