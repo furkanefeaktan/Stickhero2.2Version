@@ -19,5 +19,5 @@ MonoBehaviour:
   - Level4
   - Level5
   MainMenu: MainMenu
-  NumberOfLevels: 1
-  MoneyValue: 20
+  NumberOfLevels: 5
+  MoneyValue: 100

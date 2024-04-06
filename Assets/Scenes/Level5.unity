@@ -341,10 +341,10 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -357,7 +357,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -1508,6 +1508,14 @@ PrefabInstance:
       propertyPath: DraggingAllowed
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1836945718846572939, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299487069979523024, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 2955315221770867018, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_Camera
       value: 
@@ -1577,8 +1585,16 @@ PrefabInstance:
       value: 0.90161467
       objectReference: {fileID: 0}
     - target: {fileID: 4192416769118895200, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 4192416769118895200, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_IncludeLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 4192416769118895200, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_LayerOverridePriority
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4192416769118895200, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.x
@@ -1612,9 +1628,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerCharacterGo
       objectReference: {fileID: 0}
+    - target: {fileID: 5270115327209519766, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6120932779331753324, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_Constraints
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6120932779331753324, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 6120932779331753324, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_IncludeLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 6180804241592416259, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6642659731718301910, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2297,10 +2329,10 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -2313,7 +2345,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2874,10 +2906,10 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -2890,7 +2922,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -3313,10 +3345,10 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -3329,7 +3361,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -7603,10 +7635,10 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -7619,7 +7651,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0

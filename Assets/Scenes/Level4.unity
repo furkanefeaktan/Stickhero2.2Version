@@ -2158,7 +2158,7 @@ Transform:
   m_GameObject: {fileID: 534645364}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.12, y: -4.28, z: 0}
+  m_LocalPosition: {x: -5.12, y: -4.28, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2180,11 +2180,11 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
+    m_Bits: 8
+  m_LayerOverridePriority: -10
   m_ForceSendLayers:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -2196,7 +2196,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2664,7 +2664,7 @@ Transform:
   m_GameObject: {fileID: 665464381}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.050004, y: -4.2200003, z: 0}
+  m_LocalPosition: {x: 11.050004, y: -4.2200003, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2686,11 +2686,11 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
+    m_Bits: 8
+  m_LayerOverridePriority: -10
   m_ForceSendLayers:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -2702,7 +2702,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -4257,7 +4257,7 @@ Transform:
   m_GameObject: {fileID: 883830695}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.050002, y: -0.06999922, z: 0}
+  m_LocalPosition: {x: 11.050002, y: -0.06999922, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4279,11 +4279,11 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
+    m_Bits: 8
+  m_LayerOverridePriority: -10
   m_ForceSendLayers:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -4295,7 +4295,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -6181,7 +6181,7 @@ Transform:
   m_GameObject: {fileID: 1299089411}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.93, y: -4.2200003, z: 0}
+  m_LocalPosition: {x: 2.93, y: -4.2200003, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6203,11 +6203,11 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
+    m_Bits: 8
+  m_LayerOverridePriority: -10
   m_ForceSendLayers:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -6219,7 +6219,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -8691,7 +8691,7 @@ Transform:
   m_GameObject: {fileID: 1754240090}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.05, y: 4.080003, z: 0}
+  m_LocalPosition: {x: 11.05, y: 4.080003, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8713,11 +8713,11 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
+    m_Bits: 8
+  m_LayerOverridePriority: -10
   m_ForceSendLayers:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -8729,7 +8729,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -8772,7 +8772,7 @@ Transform:
   m_GameObject: {fileID: 1773053983}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.9299994, y: -0.06999922, z: 0}
+  m_LocalPosition: {x: 2.9299994, y: -0.06999922, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8794,11 +8794,11 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
+    m_Bits: 8
+  m_LayerOverridePriority: -10
   m_ForceSendLayers:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -8810,7 +8810,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -9234,10 +9234,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1836945718846572939, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299487069979523024, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 2955315221770867018, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 2005501294}
+    - target: {fileID: 3655179963267414529, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3655179963267414529, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.31
@@ -9248,7 +9260,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3655179963267414529, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -35
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 3655179963267414529, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -9295,8 +9307,20 @@ PrefabInstance:
       value: 0.5361295
       objectReference: {fileID: 0}
     - target: {fileID: 4192416769118895200, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 4192416769118895200, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_IncludeLayers.m_Bits
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4192416769118895200, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_LayerOverridePriority
-      value: 0
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4192416769118895200, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_ForceReceiveLayers.m_Bits
+      value: 247
       objectReference: {fileID: 0}
     - target: {fileID: 4192416769118895200, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.x
@@ -9329,6 +9353,22 @@ PrefabInstance:
     - target: {fileID: 5270115327209519766, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_Name
       value: PlayerCharacterGo
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270115327209519766, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6120932779331753324, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 6120932779331753324, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_IncludeLayers.m_Bits
+      value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 6180804241592416259, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6642659731718301910, guid: 135a39a4863d7461a8df832fc70a0f1d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -9890,7 +9930,7 @@ Transform:
   m_GameObject: {fileID: 1926611868}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.9299984, y: 4.080003, z: 0}
+  m_LocalPosition: {x: 2.9299984, y: 4.080003, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9912,11 +9952,11 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
+    m_Bits: 8
+  m_LayerOverridePriority: -10
   m_ForceSendLayers:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -9928,7 +9968,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_CallbackLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 127
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
